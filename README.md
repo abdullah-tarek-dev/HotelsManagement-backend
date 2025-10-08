@@ -155,24 +155,8 @@ No license has been specified yet.
 Intended for educational and development purposes.
 An open-source license (MIT / Apache 2.0) may be added in the future.
 
-📬 Contact
-
-GitHub: @abdullah-tarek-dev
-
-(Add your LinkedIn or email here if you'd like)
-
-© 2025 – Abdullah Tarek
 
 
----
 
-### ✅ What You Need to Do Now:
 
-1. Create a file in the root of your repo called `README.md`  
-2. Paste everything above into it  
-3. Commit and push:
 
-```bash
-git add README.md
-git commit -m "Add full project README"
-git push origin main
